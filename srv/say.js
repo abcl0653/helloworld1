@@ -1,4 +1,3 @@
 module.exports = say => {
-    say.on('hello', req => req.data.to * 2)
-    // Change ABC
+    say.on('hello', req => `Hello ${req.data.to} !` )
 }
