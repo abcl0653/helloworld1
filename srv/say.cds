@@ -1,6 +1,5 @@
 service say {
     function hello (to:String) returns String;
-    function add (x:Integer, y:Integer) returns Integer;
 
     entity Books as select from db.Books excluding {price};
 

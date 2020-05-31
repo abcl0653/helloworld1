@@ -36,5 +36,13 @@ https://services.odata.org/V4/(S(yvc2cxwa0sy2emyeiqucejzf))/TripPinServiceRW/Peo
 解释convention over configuration
 解释package.json和node_modules目录
 
+
+如果网络环境不理想，尝试提供 trial.cai-hdfs.xyz
+安装vscode ssh client
+
+```bash
+sudo npm i sap-cds-dk-1.8.4.tgz -g --unsafe-perm
+```
+
 7.  更改hello world 项目，增加一个新的函数add：当传入两个整数时，返回这两个整数之和。将更新的代码同步到github代码仓库
 
