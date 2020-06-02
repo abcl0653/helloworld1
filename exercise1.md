@@ -1,4 +1,4 @@
-# Exercise Day 2
+# Exercise Day 2 - entities, types, associations
 
 1.  下面哪个是用来描述entity中元素的格式？
 
